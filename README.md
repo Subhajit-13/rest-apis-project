@@ -1,3 +1,3 @@
 # REST APIs Recording Project
 
-Nothing here yet!
+This is a simple project for learning and understanding purpose.
